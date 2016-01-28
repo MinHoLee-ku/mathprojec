@@ -1,4 +1,5 @@
 function [ ] = OpenBMI( varargin )
+etsetests
 %OPENBMI2 Summary of this function goes here
 %   Detailed explanation goes here
 if isempty(varargin) %find a openbmi directory when use this function in the inner directory
